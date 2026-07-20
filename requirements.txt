@@ -1,0 +1,5 @@
+# R version
+# R >= 4.0
+
+# Packages (install with: install.packages(c("tidyverse")))
+tidyverse >= 2.0.0
